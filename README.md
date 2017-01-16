@@ -1,4 +1,5 @@
-# App4
+# kendo-angular2-app sample create using the following
+https://github.com/EdCharbeneau/kendo-angular2-sortable
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
